@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" th:replace="normal-user/base::layout(~{::section})">
+<head>
+	<meta charset="UTF-8"/>
+	<title>About</title>
+</head>
+<body>
+	<section>
+		
+		<div class="card  me-3">
+			
+			<div class="card-body">
+				<h1 class="text-center">Add Ticket</h1>
+				
+				<div class="container-fluid mt-1">
+				
+					<div class="row">
+						
+						<div class="col-md-10 offset-md-1">
+							
+							<form action="#"
+								th:object="${ticket}"
+								enctype="multipart/form-data"
+								method="POST"
+								th:action="@{/user/process-ticket}"
+								class="mt-2">
+								
+								
+								<!-- Title -->
+								<div class="input-group mt-3">
+									<div class="input-group-prepend">
+										
+										<div class="input-group-text">
+											Title
+										</div>
+									
+									</div>
+									
+									<input type="text" id="title" name="title" placeholder="Enter Title here " class="form-control" required>
+									
+								</div>
+								
+								<!-- Description -->
+								<div class="form-group mt-4">
+								
+									<textarea name="description" id="description" rows="15" class="form-control" placeholder="Enter Description here" required></textarea>	
+							
+								</div>
+								
+								<!-- Save Button -->
+								
+								<div class="container text-center mt-3">
+									<button class="btn btn-outline-primary">Save Content</button>
+								</div>
+								
+								
+								
+								</form>
+							
+						</div>
+					
+					</div>
+				
+				</div>
+			</div>
+			
+		</div>
+	
+	
+	</section>
+</body>
+</html>
