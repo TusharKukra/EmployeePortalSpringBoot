@@ -9,19 +9,16 @@
 ![Screenshot (251)](https://user-images.githubusercontent.com/43209472/159400051-56ecd1c8-d50d-4035-8a35-91186945c931.png)
 
 ## Login Page
-![Screenshot (257)](https://user-images.githubusercontent.com/43209472/159400335-f9e817ef-9b6c-4c7d-9d07-e5391d9446c0.png)
+![Screenshot (257)](https://user-images.githubusercontent.com/43209472/159401136-567ba550-04ce-495e-9d99-c47d85518df0.png)
 
 ## Dashboard (after Login)
-![Screenshot (258)](https://user-images.githubusercontent.com/43209472/159400466-8b1ed017-7a1d-4d6b-8961-972c474650d0.png)
+![Screenshot (258)](https://user-images.githubusercontent.com/43209472/159401188-9b2c159c-e9b8-43b5-801d-549ff2f92228.png)
 
 ## Add Tickets
-![Screenshot (260)](https://user-images.githubusercontent.com/43209472/159400655-eb137637-7f3a-4a72-9a1c-58afcf2884fc.png)
+![Screenshot (260)](https://user-images.githubusercontent.com/43209472/159401217-dcccdf0e-49ec-4534-84d4-967a1fff3c94.png)
 
 ## View Tickets
-![Screenshot (262)](https://user-images.githubusercontent.com/43209472/159400711-8d9b1cef-320b-4666-b6ec-2d7bcb38f349.png)
+![Screenshot (262)](https://user-images.githubusercontent.com/43209472/159401240-8cd52ce8-a280-40e3-af03-d6847d199ddb.png)
 
 ## Logout Page
-![Screenshot (263)](https://user-images.githubusercontent.com/43209472/159400753-87415505-179a-4191-8e79-a803309ddd01.png)
-
-
-
+![Screenshot (263)](https://user-images.githubusercontent.com/43209472/159401263-ad92c501-c18d-4c21-840b-1c13a6920be5.png)
